@@ -20,6 +20,7 @@ namespace gitTesting
         private void btnOne_Click(object sender, EventArgs e)
         {
             MessageBox.Show("This works, I guess.");
+            MessageBox.Show("Baka!");
         }
     }
 }
