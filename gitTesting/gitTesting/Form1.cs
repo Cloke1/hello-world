@@ -23,5 +23,9 @@ namespace gitTesting
             MessageBox.Show("Baka!");
             MessageBox.Show("Nope!");
         }
+
+        public void nope()
+        {
+        }
     }
 }
