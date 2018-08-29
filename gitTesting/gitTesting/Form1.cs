@@ -16,5 +16,10 @@ namespace gitTesting
         {
             InitializeComponent();
         }
+
+        private void btnOne_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This works, I guess.");
+        }
     }
 }
